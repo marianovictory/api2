@@ -1,0 +1,27 @@
+{
+  "OrderID": 10,
+  "Address": "Buenos Aires, Punta Alta, CodP:8109",
+  "Status": "Activo",
+  "Articles": [
+    {
+      "Name": "Samsung A52",
+      "Quantity": 1,
+      "Dangerous": true
+    },
+    {
+      "Name": "Cargador",
+      "Quantity": 2,
+      "Dangerous": true
+    },
+    {
+      "Name": "Cable-C",
+      "Quantity": 3,
+      "Dangerous": true
+    },
+    {
+      "Name": "Auriculares",
+      "Quantity": 4,
+      "Dangerous": false
+    }
+  ]
+}
